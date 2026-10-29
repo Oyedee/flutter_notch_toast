@@ -1,0 +1,27 @@
+name: flutter_notch_toast
+description: >-
+  Notch-style toast notifications for Flutter. One dynamic-island toast at a
+  time that morphs updates in place, attached to the screen edge or floating.
+version: 0.1.0
+homepage: https://github.com/hamid/flutter_notch_toast
+repository: https://github.com/hamid/flutter_notch_toast
+issue_tracker: https://github.com/hamid/flutter_notch_toast/issues
+topics:
+  - toast
+  - notification
+  - dynamic-island
+  - animation
+  - shadcn-ui
+
+environment:
+  sdk: ^3.10.0
+  flutter: ">=3.38.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0

@@ -1,0 +1,20 @@
+name: flutter_notch_toast_example
+description: "Playground for the flutter_notch_toast package."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_notch_toast:
+    path: ..
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
