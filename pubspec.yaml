@@ -3,9 +3,9 @@ description: >-
   Notch-style toast notifications for Flutter. One dynamic-island toast at a
   time that morphs updates in place, attached to the screen edge or floating.
 version: 0.1.0
-homepage: https://github.com/hamid/flutter_notch_toast
-repository: https://github.com/hamid/flutter_notch_toast
-issue_tracker: https://github.com/hamid/flutter_notch_toast/issues
+homepage: https://github.com/oyedee/flutter_notch_toast
+repository: https://github.com/oyedee/flutter_notch_toast
+issue_tracker: https://github.com/oyedee/flutter_notch_toast/issues
 topics:
   - toast
   - notification
